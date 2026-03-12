@@ -30,15 +30,18 @@ Note: This project is mainly focused on frontend design. Functional features suc
 ---
 
 ## Screenshots
+### Start Screen
+![Start Screen](screenshots/startpage.jpg)
+
 
 ### Home Screen
 ![Home Screen](screenshots/homepage.jpg)
 
 ### Coffee Menu
-![Menu Screen](screenshots/startpage.jpg)
+![Menu Screen](screenshots/details1.jpg)
 
 ### Coffee Details
-![Coffee Details](screenshots/detail1.jpg)
+![Coffee Details](screenshots/product2.jpg)
 
 ---
 
